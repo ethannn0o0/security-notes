@@ -26,7 +26,7 @@ A growing, bilingual collection of my cybersecurity study notes: concepts, lab w
 | # | Topic · 主题 | Focus · 内容 | Status |
 | :-: | :-- | :-- | :-: |
 | 01 | **[Web Security · Web 安全](notes/01-web-security-owasp-top10.md)** | OWASP Top 10, authentication, injection, access control | ✅ |
-| 02 | **Network Security** · 网络安全 | TCP/IP, traffic analysis, firewalls, segmentation | ⬜ |
+| 02 | **[Network Security · 网络安全](notes/02-network-security-basics.md)** | TCP/IP, traffic analysis, firewalls, segmentation | ✅ |
 | 03 | **Linux & Scripting** · Linux 与脚本 | Shell, permissions, Python automation | ⬜ |
 | 04 | **Pentest Methodology** · 渗透测试方法论 | Recon → scanning → exploitation → reporting (authorized labs) | ⬜ |
 | 05 | **Blue Team** · 蓝队防御 | Logging, detection, incident response basics | ⬜ |
