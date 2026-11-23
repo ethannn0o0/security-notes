@@ -31,7 +31,7 @@ A growing, bilingual collection of my cybersecurity study notes: concepts, lab w
 | 04 | **[Pentest Methodology · 渗透测试方法论](notes/04-pentest-methodology.md)** | Recon → scanning → exploitation → reporting (authorized labs) | ✅ |
 | 05 | **[Blue Team · 蓝队防御](notes/05-blue-team.md)** | Logging, detection, incident response basics | ✅ |
 | 06 | **[Cryptography · 密码学](notes/06-cryptography.md)** | Hashing, symmetric/asymmetric crypto, TLS | ✅ |
-| 07 | **CTF & Lab Write-ups** · CTF 与靶场 | Walkthroughs from public challenges and legal labs | ⬜ |
+| 07 | **[CTF & Lab Write-ups · CTF 与靶场](notes/07-ctf-and-labs.md)** | Walkthroughs from public challenges and legal labs | ✅ |
 
 ## 🧭 Note Format | 笔记格式
 
