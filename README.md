@@ -32,6 +32,12 @@ A growing, bilingual collection of my cybersecurity study notes: concepts, lab w
 | 05 | **[Blue Team · 蓝队防御](notes/05-blue-team.md)** | Logging, detection, incident response basics | ✅ |
 | 06 | **[Cryptography · 密码学](notes/06-cryptography.md)** | Hashing, symmetric/asymmetric crypto, TLS | ✅ |
 | 07 | **[CTF & Lab Write-ups · CTF 与靶场](notes/07-ctf-and-labs.md)** | Walkthroughs from public challenges and legal labs | ✅ |
+| 08 | **[Malware Analysis Basics · 恶意软件分析入门](notes/08-malware-analysis-intro.md)** | Static and dynamic analysis, IOCs, YARA (analysis and defense only) | ✅ |
+| 09 | **[Cloud Security · 云安全](notes/09-cloud-security.md)** | Shared responsibility, IAM, misconfigurations, logging | ✅ |
+| 10 | **[Digital Forensics · 数字取证](notes/10-digital-forensics.md)** | Evidence handling, order of volatility, timelines | ✅ |
+| 11 | **[Python for Security · 用 Python 写安全小工具](notes/11-python-for-security.md)** | Hashing, port checks, password exposure checks | ✅ |
+| 12 | **[Social Engineering · 社会工程与安全意识](notes/12-social-engineering.md)** | Phishing recognition, email authentication, MFA | ✅ |
+| 13 | **[Privacy & Compliance · 隐私与合规](notes/13-privacy-and-compliance.md)** | Privacy principles, ISO 27001, Essential Eight, AU and MY laws | ✅ |
 
 ## 🧭 Note Format | 笔记格式
 
