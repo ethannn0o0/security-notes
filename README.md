@@ -30,7 +30,7 @@ A growing, bilingual collection of my cybersecurity study notes: concepts, lab w
 | 03 | **[Linux & Scripting · Linux 与脚本](notes/03-linux-and-scripting.md)** | Shell, permissions, Python automation | ✅ |
 | 04 | **[Pentest Methodology · 渗透测试方法论](notes/04-pentest-methodology.md)** | Recon → scanning → exploitation → reporting (authorized labs) | ✅ |
 | 05 | **[Blue Team · 蓝队防御](notes/05-blue-team.md)** | Logging, detection, incident response basics | ✅ |
-| 06 | **Cryptography** · 密码学 | Hashing, symmetric/asymmetric crypto, TLS | ⬜ |
+| 06 | **[Cryptography · 密码学](notes/06-cryptography.md)** | Hashing, symmetric/asymmetric crypto, TLS | ✅ |
 | 07 | **CTF & Lab Write-ups** · CTF 与靶场 | Walkthroughs from public challenges and legal labs | ⬜ |
 
 ## 🧭 Note Format | 笔记格式
