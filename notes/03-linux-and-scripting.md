@@ -20,14 +20,17 @@ Most servers, cloud workloads and security tools run on **Linux**, and most secu
 ```text
 $ ls -l report.txt
 -rw-r----- 1 alice staff 1024 Nov 24 10:00 report.txt
-│└┬┘└┬┘└┬┘   │     │
-│ │  │  │    │     └─ group  所属组
-│ │  │  │    └─────── owner  所有者
-│ │  │  └──────────── others 其他人 (---: no access 无权限)
-│ │  └─────────────── group  组    (r--: read 只读)
-│ └────────────────── owner  所有者 (rw-: read+write 读写)
-└──────────────────── type   类型   (- file 文件, d directory 目录)
 ```
+
+| Part · 部分 | Value · 值 | Meaning · 含义 |
+| :-- | :-: | :-- |
+| Type · 类型 | `-` | `-` file 文件，`d` directory 目录 |
+| Owner perms · 所有者权限 | `rw-` | read + write · 读写 |
+| Group perms · 组权限 | `r--` | read only · 只读 |
+| Others perms · 其他人权限 | `---` | no access · 无权限 |
+| Owner · 所有者 | `alice` | the user who owns the file · 文件所属用户 |
+| Group · 所属组 | `staff` | the group that owns the file · 文件所属组 |
+
 
 | Symbol · 符号 | Meaning · 含义 | Octal · 数字 |
 | :-: | :-- | :-: |
