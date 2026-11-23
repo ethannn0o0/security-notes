@@ -25,7 +25,7 @@ A growing, bilingual collection of my cybersecurity study notes: concepts, lab w
 
 | # | Topic · 主题 | Focus · 内容 | Status |
 | :-: | :-- | :-- | :-: |
-| 01 | **Web Security** · Web 安全 | OWASP Top 10, authentication, injection, access control | ⬜ |
+| 01 | **[Web Security · Web 安全](notes/01-web-security-owasp-top10.md)** | OWASP Top 10, authentication, injection, access control | ✅ |
 | 02 | **Network Security** · 网络安全 | TCP/IP, traffic analysis, firewalls, segmentation | ⬜ |
 | 03 | **Linux & Scripting** · Linux 与脚本 | Shell, permissions, Python automation | ⬜ |
 | 04 | **Pentest Methodology** · 渗透测试方法论 | Recon → scanning → exploitation → reporting (authorized labs) | ⬜ |
@@ -52,7 +52,7 @@ Every note follows the same skeleton so it stays easy to review:
 ## 🎯 Roadmap | 路线
 
 - [x] Create the repository / 创建仓库
-- [ ] Publish the first note / 发布第一篇笔记
+- [x] Publish the first note / 发布第一篇笔记
 - [ ] Cover the 7 core topics above / 完成上面 7 个核心主题
 - [ ] Add lab write-ups for public challenges / 补充公开靶场 Write-up
 - [ ] Build small Python tools to go with the notes / 配套小型 Python 工具
